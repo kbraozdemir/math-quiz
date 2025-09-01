@@ -1,8 +1,8 @@
-#Matematik Quiz Oyunu
+# Matematik Quiz Oyunu
 
 Zamanla yarış, doğruyu yakala! Bu proje, temel matematik sorularıyla kullanıcıya hızlı ve eğlenceli bir test deneyimi sunar. Kodlama pratiği, UI tasarımı ve oyun mantığı bir arada.
 
-##Özellikler
+## Özellikler
 
     -Rastgele matematik soruları (toplama, çıkarma, çarpma)
 
@@ -14,7 +14,7 @@ Zamanla yarış, doğruyu yakala! Bu proje, temel matematik sorularıyla kullan�
 
     - Mobil uyumlu ve sade arayüz
 
-##Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
     -Next.JS – React tabanlı framework
 
@@ -24,20 +24,20 @@ Zamanla yarış, doğruyu yakala! Bu proje, temel matematik sorularıyla kullan�
 
     - JSON – Soru yönetimi ve içerik kontrolü
 
-##Kurulum
+## Kurulum
 
-'''bash
+```bash
     git clone https://github.com/kullaniciadi/math-quiz-game.git
     cd math-quiz-game
     npm install
     npm run dev
-'''
+```
 
-##Amaç
+## Amaç
 
     Bu proje, hem teknik portfolyoma katkı sağlamak hem de oyun geliştirme mantığını adım adım öğrenmek için hazırlandı. Kod sade, modüler ve geliştirilebilir yapıda tutuldu.
 
-##Notlar
+## Notlar
 
     - Kodda yorum satırlarıyla açıklamalar yer alır.
 
